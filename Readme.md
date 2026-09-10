@@ -40,7 +40,7 @@ Watch the complete working demonstration of the **Kawasaki Bike Project** by cli
 
 </p>
 
-🔗 **GitHub Repository:** `YOUR_GITHUB_REPOSITORY_URL`
+🔗 **GitHub Repository:** "[https://github.com/shabbirhathiyari583-wq/React_Portfolio]((https://github.com/shabbirhathiyari583-wq/React_Portfolio))"
 
 > Replace the above placeholders with your actual deployed website and GitHub repository links.
 
