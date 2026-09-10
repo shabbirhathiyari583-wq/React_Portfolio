@@ -26,6 +26,20 @@
 
 🔗 **Live Website:** "[http://localhost:5174/#projects](http://localhost:5174/#projects)"
 
+## 🎥 Project Demo
+<p align="center">
+
+Watch the complete working demonstration of the **Kawasaki Bike Project** by clicking the button below.
+<p><strong>🎥 Click the button below to watch the complete working demonstration of this Image Slider project.</strong></p>
+
+<a href="https://drive.google.com/file/d/1ENIK8ORodkYy4lBD24IGVVS_D_8GpLLz/view?usp=sharing" target="_blank">
+
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-Click%20Here-red?style=for-the-badge&logo=googleplay&logoColor=white">
+
+</a>
+
+</p>
+
 🔗 **GitHub Repository:** `YOUR_GITHUB_REPOSITORY_URL`
 
 > Replace the above placeholders with your actual deployed website and GitHub repository links.
